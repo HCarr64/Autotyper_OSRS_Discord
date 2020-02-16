@@ -1,39 +1,126 @@
-+sell,90,Dwarf weed
-+sell,10,Torstol
-+sell,350,Manta ray
-+sell,32,Runite ore
-+sell,2200,Coal
-+sell,120,Dragon bones
-+sell,5453,Death rune
-+sell,12499,Chaos rune
-+sell,2800,Law rune
-+sell,1,Dragon med helm
-+sell,150,Battlestaff
-+sell,315,Yew logs
-+sell,2,Dragon necklace
-+sell,51962,Flax
-+sell,6999,Swamp tar
-+sell,1250,Grapes
-+sell,100,Adamantite bar
-+sell,75,Toadflax
-+sell,40,Snapdragon
-+sell,5,Dragon halberd
-+sell,9,Purple sweets
-+sell,24,Papaya tree seed
-+sell,11,Palm tree seed
-+sell,18,Calquat tree seed
-+sell,3,Snapdragon seed
-+sell,4,Dwarf weed seed
-+sell,1,Torstol seed
-+sell,4,Magic seed
-+sell,100,Antidote++(4)
-+sell,100,Coconut
-+sell,525,Snakeskin
-+sell,450,Mahogany logs
-+sell,10499,Pure essence
-+sell,156,Dragonstone bolt tips
-+sell,12,Onyx bolt tips
-+sell,1,Serpentine visage
-+sell,33559,Zulrah's scales
-+sell,72,Zul-andra teleport
-+sell,1,Rangers' tights
++sell,Cannonball,2000
++sell,Super defence(3),51
++sell,Ranging potion(3),51
++sell,Grimy guam leaf,18
++sell,Grimy marrentill,15
++sell,Grimy tarromin,9
++sell,Grimy harralander,16
++sell,Grimy ranarr weed,5
++sell,Grimy irit leaf,6
++sell,Grimy avantoe,5
++sell,Grimy kwuarm,42
++sell,Grimy cadantine,3
++sell,Grimy dwarf weed,204
++sell,Wine of zamorak,15
++sell,Fishing bait,13
++sell,Feather,8776
++sell,Lobster,14
++sell,Manta ray,877
++sell,Copper ore,5
++sell,Silver ore,100
++sell,Adamantite ore,444
++sell,Coal,320
++sell,Bones,1129
++sell,Big bones,240
++sell,Dragon bones,192
++sell,Fire rune,30
++sell,Earth rune,20
++sell,Mind rune,5446
++sell,Death rune,7580
++sell,Nature rune,112
++sell,Chaos rune,17191
++sell,Law rune,400
++sell,Cosmic rune,500
++sell,Blood rune,60
++sell,Soul rune,100
++sell,Ashes,12
++sell,Steel dart,3951
++sell,Rune dart tip,1488
++sell,Magic longbow,1
++sell,Bronze bolts,513
++sell,Bronze arrow,70
++sell,Steel arrow,3440
++sell,Rune arrow,1432
++sell,Tooth half of key,5
++sell,Loop half of key,6
++sell,Crystal key,1
++sell,Coins,19137294
++sell,Leather vambraces,1
++sell,Rune plateskirt,1
++sell,Rune platebody,2
++sell,Bronze med helm,4
++sell,Rune sq shield,1
++sell,Rune kiteshield,55
++sell,Iron dagger,3
++sell,Rune dagger,1
++sell,Rune spear,1
++sell,Dragon spear,1
++sell,Rune pickaxe,1
++sell,Rune longsword,37
++sell,Dragon longsword,16
++sell,Rune 2h sword,1
++sell,Rune battleaxe,1
++sell,Dragon battleaxe,14
++sell,Battlestaff,147
++sell,Earth talisman,5
++sell,Magic logs,850
++sell,Yew logs,35
++sell,Diamond,200
++sell,Dragonstone,37
++sell,Uncut diamond,5
++sell,Uncut sapphire,2
++sell,Unholy symbol,1
++sell,Black dragonhide,684
++sell,Red dragonhide,730
++sell,Blue dragonhide,1458
++sell,Green dragonhide,781
++sell,Swamp tar,2000
++sell,Cabbage,4
++sell,Grapes,6593
++sell,Adamantite bar,20
++sell,Runite bar,1
++sell,Vorkath's head,3
++sell,Grimy lantadyme,1
++sell,Black d'hide body,20
++sell,Clue scroll (easy),1
++sell,Toadflax,25
++sell,Dragon platelegs,13
++sell,Purple sweets,9
++sell,Dragon plateskirt,7
++sell,Smoke rune,699
++sell,Papaya tree seed,4
++sell,Palm tree seed,2
++sell,Ranarr seed,1
++sell,Snapdragon seed,1
++sell,Dwarf weed seed,39
++sell,Torstol seed,1
++sell,Willow seed,2
++sell,Maple seed,2
++sell,Yew seed,2
++sell,Magic seed,1
++sell,Spirit seed,4
++sell,Watermelon seed,15
++sell,Mahogany logs,50
++sell,Crushed nest,96
++sell,Mushroom potato,138
++sell,Runite bolts,270
++sell,Rune crossbow,15
++sell,Sapphire bolt tips,28
++sell,Emerald bolt tips,81
++sell,Ruby bolt tips,223
++sell,Diamond bolt tips,218
++sell,Dragonstone bolt tips,386
++sell,Onyx bolt tips,177
++sell,Dragonstone bolts (e),89
++sell,Dragon dart tip,704
++sell,Dragon arrowtips,447
++sell,Godsword shard 1,1
++sell,Godsword shard 2,1
++sell,Armadyl helmet,1
++sell,Zulrah's scales,1840
++sell,Zul-andra teleport,12
++sell,Key master teleport,3
++sell,Wrath rune,775
++sell,Dragon bolts (unf),2090
++sell,Wrath talisman,13
++sell,Superior dragon bones,600
